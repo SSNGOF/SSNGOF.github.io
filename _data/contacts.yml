@@ -2,11 +2,11 @@ staff:
   - title: "Director"
     email: "director@southsudanngoforum.org"
 
-  - title: "Humanitarian Advisor"
+  - title: "Access & Saftety Advisor"
     email: "access@southsudanngoforum.org"
 
-  - title: "Communications Officer"
-    email: "comms-officer@southsudanngoforum.org"
+  - title: "Government Liaison Advisor"
+    email: "liaison@southsudanngoforum.org"
 
   - title: "ICT Officer"
     email: "ict-officer@southsudanngoforum.org"
@@ -23,8 +23,8 @@ staff:
  # - title: "Communications Advisor"
    # email: "comms@southsudanngoforum.org "
 
-  - title: "Information Advisor"
-    email: "infomgr@southsudanngoforum.org"
+  - title: "Support"
+    email: "support@southsudanngoforum.org"
 
  # - title: "NNGO Focal Point"
    # email: "nngo-fp@southsudanngoforum.org"
